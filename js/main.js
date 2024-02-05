@@ -29,7 +29,7 @@ window.addEventListener('load', function () {
         iziToast.show({
             timeout: 2500,
             title: hello,
-            message: '欢迎来到Apibug的主页'
+            message: '欢迎来到三歲的主页'
         });
     }, 800);
 }, false)
@@ -156,27 +156,27 @@ $("#social").mouseover(function () {
 });
 
 $("#github").mouseover(function () {
-    $("#link-text").html("Apibug-Github");
+    $("#link-text").html("Github");
 }).mouseout(function () {
     $("#link-text").html("通过这里联系我");
 });
 $("#qq").mouseover(function () {
-    $("#link-text").html("Apibug-QQ");
+    $("#link-text").html("QQ");
 }).mouseout(function () {
     $("#link-text").html("通过这里联系我");
 });
 $("#email").mouseover(function () {
-    $("#link-text").html("Apibug-Email");
+    $("#link-text").html("Email");
 }).mouseout(function () {
     $("#link-text").html("通过这里联系我");
 });
 $("#telegram").mouseover(function () {
-    $("#link-text").html("Apibug-Telegram");
+    $("#link-text").html("Telegram");
 }).mouseout(function () {
     $("#link-text").html("通过这里联系我");
 });
 $("#twitter").mouseover(function () {
-    $("#link-text").html("Apibug-Twitter");
+    $("#link-text").html("Twitter");
 }).mouseout(function () {
     $("#link-text").html("通过这里联系我");
 });
