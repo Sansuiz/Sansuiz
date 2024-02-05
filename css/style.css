@@ -154,13 +154,13 @@ main {
 }
 
 span.img-title {
-    font-size: 4rem;
-    font-family: 'Maves-Regular' !important;
+    font-size: 5rem;
+    font-family: 'Double-Shadow' !important;
 }
 
 span.img-text {
     font-size: 1rem;
-    font-family: 'Pacifico-Regular' !important;
+    font-family: 'Double-Shadow' !important;
 }
 
 /*简介*/
@@ -187,7 +187,7 @@ span.img-text {
 }
 
 span#change {
-    font-family: 'Maves-Regular' !important;
+    font-family: 'Double-Shadow' !important;
 }
 
 i.iconfont.icon-yinhao-copy {
