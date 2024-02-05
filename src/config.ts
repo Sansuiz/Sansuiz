@@ -4,7 +4,8 @@ export const site = {
     description: '',
     keywords: '',
     favicon: '/favicon.ico',
-    url: 'https://dorakika.cn'
+    url: 'https://buyivi.xyz'
+    baseurl: "/Sansuiz"
 }
 export const footer = {
     beian: {
